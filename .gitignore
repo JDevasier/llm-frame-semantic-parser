@@ -1,0 +1,24 @@
+experiments/finetune-notebooks/**/*.jsonl
+experiments/data/raw/fndata-1.7/frame
+experiments/data/raw/fndata-1.7/fulltext
+*.id
+*.csv
+experiments/finetune-notebooks/json-existing/llama-3b/outputs
+experiments/finetune-notebooks/json-existing/llama-3b/llama-3.2-3b-fsp-ft
+experiments/finetune-notebooks/json-existing/llama-3b/llama-3.2-3b-fsp-ft2
+experiments/finetune-notebooks/json-existing/llama-3b/outputs-llama-3.2-3b
+experiments/finetune-notebooks/json-existing/llama-3b/outputs-Meta-Llama-3.1-8B-Instruct-bnb-4bit
+experiments/finetune-notebooks/json-existing/qwen-2.5-7b/output-qwen-2.5-7b-fsp-ft-cand
+experiments/finetune-notebooks/json-existing/qwen-2.5-7b/qwen-2.5-7b-fsp-ft-cand
+experiments/finetune-notebooks/json-existing/qwen-2.5-7b/llama-3.2-3b-instruct-fsp
+experiments/finetune-notebooks/json-existing/qwen-2.5-7b/outputs
+experiments/finetune-notebooks/json-existing/phi-4/fndata-1.7/*
+experiments/finetune-notebooks/json-existing/phi-4/phi-4-fsp-ft-cand/*
+experiments/finetune-notebooks/json-existing/phi-4/test/*
+experiments/finetune-notebooks/wandb/*
+experiments/frame-details/*
+*.pyc
+*.zip
+*.jsonl
+# end-to-end/fndata-1.7/frame/*
+# end-to-end/fndata-1.7/fulltext/*
