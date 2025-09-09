@@ -22,3 +22,4 @@ experiments/frame-details/*
 *.jsonl
 # end-to-end/fndata-1.7/frame/*
 # end-to-end/fndata-1.7/fulltext/*
+end-to-end/phi-4-fsp-ft-cand/adapter_model.safetensors
